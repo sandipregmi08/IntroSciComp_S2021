@@ -72,6 +72,6 @@ Python and GIS:
   
 Hydrology:
 
-  http://abouthydrology.blogspot.com/2016/11/python-resources-for-hydrologists.html
-  http://greenteapress.com/pythonhydro/pythonhydro.html
-  https://water.usgs.gov/ogw/flopy/
+  - http://abouthydrology.blogspot.com/2016/11/python-resources-for-hydrologists.html
+  - http://greenteapress.com/pythonhydro/pythonhydro.html
+  - https://water.usgs.gov/ogw/flopy/
