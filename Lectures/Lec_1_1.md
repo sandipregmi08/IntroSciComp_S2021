@@ -31,8 +31,8 @@ Break, set up breakout rooms
 1.	Join the class datacamp site: https://www.datacamp.com/groups/shared_links/96ff084a0a95597bb08bf597cb995c823c7041873195170fc80655ecd5a33436. Navigate to the assignments page.
 1.	In datacamp, complete your first assignment: Introduction to Python, Ch 1 “Python Basics”
 1.	Get Anaconda installed on your computer
-   1.	Make sure you have Jupyter Lab (python notebooks), QT console (interactive or ipython), and Spyder installed
-   1.	Open ipython/QT console and run the four code examples in the last exercise in the datacamp “Introduction to Python” first chapter we did on Monday (“Can Python handle everything?”). Note that the ipython console is what the bottom datacamp interactive window uses.
+    1.	Make sure you have Jupyter Lab (python notebooks), QT console (interactive or ipython), and Spyder installed
+    1.	Open ipython/QT console and run the four code examples in the last exercise in the datacamp “Introduction to Python” first chapter we did on Monday (“Can Python handle everything?”). Note that the ipython console is what the bottom datacamp interactive window uses.
    
    
    
