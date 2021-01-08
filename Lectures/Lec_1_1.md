@@ -33,7 +33,7 @@ Break, set up breakout rooms
 5.	Get Anaconda installed on your computer
    1.	Make sure you have Jupyter Lab (python notebooks), QT console (interactive or ipython), and Spyder installed
    2.	Open ipython/QT console and run the four code examples in the last exercise in the datacamp “Introduction to Python” first chapter we did on Monday (“Can Python handle everything?”). Note that the ipython console is what the bottom datacamp interactive window uses.
-   1.	Enter the same four code examples again both in Jupyter interactive notebook and Spyder. Make sure you know how to execute code in each of these interfaces.	
+   1.	Enter the same four code examples again both in Jupyter interactive notebook and Spyder. Make sure you know how to execute code in each of these interfaces.
    2.	Play around with these different coding interfaces and practicing some of the code you learned in datacamp
 6.	Turn in your work on Blackboard submit screenshots of:
    1.	your completed chapter on datacamp
