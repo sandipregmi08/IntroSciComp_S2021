@@ -21,7 +21,7 @@ Break
 
 Schedule of topics
 
-Introduction to Slack, github, datacamp and Anaconda
+Introduction to Slack, github, datacamp, Anaconda, and python
 
 Break, set up breakout rooms
 
