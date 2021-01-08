@@ -26,9 +26,10 @@ Introduction to Slack, github, datacamp and Anaconda
 Break, set up breakout rooms
 
 # Lab 1.1 (Due Tuesday by midnight):
-1.	Join the class slack channel (use this link) and send Dr. H a message
+1.	Join the class slack channel (https://join.slack.com/t/introscicomps-au09172/shared_invite/zt-kmlj0kjp-Xy8x3gReL~MXtOe3VrEBew) and send Dr. H a message
 1.	Sign up for a github account. Choose your github username wisely. Send Dr. H your github username over slack so you can be added to our course github channel (https://github.com/chsharrison/IntroSciComp_S2021)
 1.	Join the class datacamp site: https://www.datacamp.com/groups/shared_links/96ff084a0a95597bb08bf597cb995c823c7041873195170fc80655ecd5a33436. Navigate to the assignments page.
+Here is where we will breakout into groups
 1.	In datacamp, complete your first assignment: Introduction to Python, Ch 1 “Python Basics”
 1.	Get Anaconda installed on your computer
     1.	Make sure you have Jupyter Lab (python notebooks), QT console (interactive or ipython), and Spyder installed
