@@ -30,10 +30,10 @@ Tutorials:
 
 Beginning Python exercises:
   
-  https://www.practicepython.org/
-  https://edabit.com/challenges/python3
-  https://www.w3resource.com/python-exercises/
-  https://github.com/zhiwehu/Python-programming-exercises
+- https://www.practicepython.org/
+- https://edabit.com/challenges/python3
+- https://www.w3resource.com/python-exercises/
+- https://github.com/zhiwehu/Python-programming-exercises
 
 How to drop NaNs in pandas:
   https://stackoverflow.com/questions/13413590/how-to-drop-rows-of-pandas-dataframe-whose-value-in-a-certain-column-is-nan
