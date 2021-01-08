@@ -61,11 +61,11 @@ Symbolic math in python:
 
 Python and GIS:
 
-  Programming ArcGIS 10.1 with Python Cookbook (2013) 
+ -  Programming ArcGIS 10.1 with Python Cookbook (2013) 
   https://www.packtpub.com/application-development/programming-arcgis-101-python-cookbook
   Might be a little outdated
 
-  Good blog with lots of resources:
+  - Good blog with lots of resources:
   http://geospatialpython.com/
   
 Hydrology:
