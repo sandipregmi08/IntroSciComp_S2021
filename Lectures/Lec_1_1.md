@@ -30,7 +30,7 @@ Break, set up breakout rooms
 1.	Sign up for a github account. Choose your github username wisely. Send Dr. H your github username over slack so you can be added to our course github channel (https://github.com/chsharrison/IntroSciComp_S2021)
 1.	Join the class datacamp site: https://www.datacamp.com/groups/shared_links/96ff084a0a95597bb08bf597cb995c823c7041873195170fc80655ecd5a33436. Navigate to the assignments page.
 
-Here is where we will breakout into groups
+Here is where we will breakout into groups. A portion of the below will need to be completed outside of lab time.
 
 1.	In datacamp, complete your first assignment: Introduction to Python, Ch 1 “Python Basics”
 1.	Get Anaconda installed on your computer
