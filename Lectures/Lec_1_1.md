@@ -1,6 +1,6 @@
-## Class 1.1 (Week 1, Class 1)
+# Class 1.1 (Week 1, Class 1)
 
-# Lecture 1.1: 
+## Lecture 1.1: 
 
 Mission statement, a little about the class, goals and agenda
 
