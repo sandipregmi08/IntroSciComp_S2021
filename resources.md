@@ -3,29 +3,29 @@ Feel free to add to the list below and update/edit old links
 Notebook viewer if github won't render:
 https://nbviewer.jupyter.org/
 
-Previous years' github:
+Previous years' githubs:
 
-https://github.com/chsharrison/IntroSciComp
-https://github.com/moodycam/MARS-5470-4470
+- https://github.com/chsharrison/IntroSciComp
+- https://github.com/moodycam/MARS-5470-4470
 
 Tutorials:
 
-  R 
+ - R 
   https://swirlstats.com/
   
-  Stats in python:
+ - Stats in python:
   https://www.statsmodels.org/
 
-  A very quick python intro:
+ - A very quick python intro:
   http://123.physics.ucdavis.edu/week_8_files/Python.pdf
   
-  Scientific python lecture notes
+  - Scientific python lecture notes
   http://scipy-lectures.org
   
-  Johansson lecture notes
+  - Johansson lecture notes
   https://github.com/jrjohansson/scientific-python-lectures
   
-  Hands on python
+  - Hands on python
   http://anh.cs.luc.edu/handsonPythonTutorial/index.html
 
 Beginning Python exercises:
