@@ -1,4 +1,6 @@
-Feel free to add to the list below and update/edit old links
+# List of links and resources for Introduction to Scientific Computing 
+
+## Feel free to add to the list below and update/edit old links
 
 Notebook viewer if github won't render:
 https://nbviewer.jupyter.org/
