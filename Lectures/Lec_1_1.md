@@ -14,9 +14,13 @@ Introductions
 Go over syllabus in detail
 
 Basic schedule (all class activities are over Zoom):
+
 2-3 Lecture and discussion all together, examples and guided exercises
+
 These will be recorded
+
 Break
+
 3:15-4:45 Lab work time in breakout rooms with a buddy system and support
 
 Schedule of topics
