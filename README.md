@@ -2,10 +2,14 @@
 
 
 MW 1:45-4:30 CT
+
 Join Zoom Meeting
+
 https://utrgv.zoom.us/j/84000683001?pwd=RkdEZHhqTVVoVnZqOU1wRWZFTVJ6UT09
+
 Meeting ID: 840 0068 3001
-See blackboard and email for passcode
+
+See blackboard or email for passcode
 
 
 Repository for Introduction to Scientific Computing course Spring 2021
