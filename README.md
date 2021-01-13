@@ -1,5 +1,5 @@
 # IntroSciComp_S2021
-
+Repository for Introduction to Scientific Computing course Spring 2021
 
 MW 1:45-4:30 CT
 
@@ -11,8 +11,6 @@ Meeting ID: 840 0068 3001
 
 See blackboard or email for passcode
 
-
-Repository for Introduction to Scientific Computing course Spring 2021
 
 ## New Students
 To gain access to and create new files in this repo:
